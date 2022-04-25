@@ -11,7 +11,7 @@ import { Observable } from 'rxjs';
 export class CursosService {
 
   //URL BASE
-  url = 'http://localhost/api/php/listar.php'
+  url = 'http://localhost/api/exemplo01/php/listar.php'
 
   constructor(private http:HttpClient) { }
 
