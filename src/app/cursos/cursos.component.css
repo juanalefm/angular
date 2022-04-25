@@ -1,0 +1,36 @@
+form {
+  width: 800px;
+  margin: 30px auto;
+  border: solid 1px #ccc;
+  background-color: #e8e8e8;
+  border-radius: 5px;
+  padding: 5px ;
+  justify-content: center;
+}
+
+input[type="text"],
+input[type="number"]{
+  border-radius: 5px;
+  padding: 5px ;
+  border: solid 1px #ccc;
+  margin-right: 10px;
+  width: 150px;
+}
+
+input[type="button"]{
+  background-color: green;
+  border: solid 1px rebeccapurple;
+  border-radius: 5px;
+  padding: 5px;
+  color: white;
+  width: 150px;
+}
+
+table{
+  width: 800px;
+  margin: 30px auto;
+  border: solid 1px #ccc;
+  background-color: #e8e8e8;
+  border-radius: 5px;
+  padding: 5px;
+}
